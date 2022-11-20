@@ -118,7 +118,7 @@ competing models in production. Primary areas: Churn, cross-sales, CLV.
 
 Converting Machine Learning and advanced statistical analysis into concrete data products targeted at various businesses.  
 A Senior Data Science Architect has several years of experience deploying Data Science models in production in customer environments, both on premise and Azure cloud. The have broad and deep experience with Data Science methods, tools and algorithms and know how to deploy each of these models to production. They can facilitate a business discussion and design the data science architecture to match customers’ requirements to data environment.  
-The profile secures that team members and colleagues are up to date on Kapacitys Best Practice for implementing. Data Science methods, based on i.e infrastructure-as-code, CI/CD pipelines, DevOps methods, Docker containers and virtual analysis environments.
+The profile secures that team members and colleagues are up to date on Kapacitys Best Practice for implementing. Data Science methods, based on i.e infrastructure-as-code, CI/CD pipelines, DevOps methods, Docker containers and virtual analysis environments.  
 *Link*: [Kapacity](https://kapacity.dk/)  
 
 ### Senior Data Scientist
@@ -278,7 +278,7 @@ American football | Sports in general | Challenges
 
 <br/><br/>
 
-<div style="margin-left: 20%; margin-right: auto; width: 100%">
+<div style="margin-left: 22%; margin-right: auto; width: 100%">
 <embed src="grades_master_magnus_bitsch.pdf" type="application/pdf" width="800" height="1200">
 
 </div>
@@ -288,7 +288,7 @@ American football | Sports in general | Challenges
 <br/><br/>
 
 
-<div style="margin-left: 20%; margin-right: auto; width: 100%">
+<div style="margin-left: 22%; margin-right: auto; width: 100%">
 <embed src="grades_bachelor_magnus_bitsch.pdf" type="application/pdf" width="800" height="1200">
 
 </div>
@@ -298,7 +298,7 @@ American football | Sports in general | Challenges
 
 <br/><br/>
 
-<div style="margin-left: -10%; margin-right: auto; width: 100%">
+<div style="margin-left: -7%; margin-right: auto; width: 100%">
 ![](diplom_dtu_magnus_bitsch.png)
 </div>
 
