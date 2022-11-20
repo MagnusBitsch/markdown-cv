@@ -277,6 +277,11 @@ American football | Sports in general | Challenges
 
 <embed src="grades_bachelor_magnus_bitsch.pdf" type="application/pdf" width="800" height="1188">
 
+### Grades Bachelor
+
+<br/><br/>
+
+![](diplom_dtu_magnus_bitsch.png)
 
 <!-- ### Footer
 
