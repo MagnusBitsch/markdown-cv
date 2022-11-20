@@ -45,10 +45,10 @@ leadership abilities and taught me how to be a team player.
 
 |                           |                           |                                       |
 |:--------------------------|:--------------------------|:--------------------------------------|
-| - Statistical Modelling   | - Azure                   | - Natural Leader - Team Captain       |
-| - Time Series Analysis    | - Deep Learning           | - Communication to non-mathematicians |
-| - Machine Learning        | - Reinforcement Learning  | - Self-motivated                      |
-| - Data Mining             | - Problem Solving         | - Keen to learn and improve skills    |
+| $\bullet$ Statistical Modelling   | $\bullet$ Azure                   | $\bullet$ Natural Leader - Team Captain       |
+| $\bullet$ Time Series Analysis    | $\bullet$ Deep Learning           | $\bullet$ Communication to non-mathematicians |
+| $\bullet$ Machine Learning        | $\bullet$ Reinforcement Learning  | $\bullet$ Self-motivated                      |
+| $\bullet$ Data Mining             | $\bullet$ Problem Solving         | $\bullet$ Keen to learn and improve skills    |
 |                           |                           |                                       |
 
 </div>
@@ -269,7 +269,7 @@ American football | Sports in general | Challenges
 
 `2014` European Championship (6th)
 
-`2013`  · European Championship (1st) (B-group)
+`2013`  European Championship (1st) (B-group)
 
 
 ## Appendix
@@ -278,28 +278,35 @@ American football | Sports in general | Challenges
 
 <br/><br/>
 
-<div style="text-align: center;">
-<embed src="grades_master_magnus_bitsch.pdf" type="application/pdf" width="800" height="1188">
+<div style="margin-left: 20%; margin-right: auto; width: 100%">
+<embed src="grades_master_magnus_bitsch.pdf" type="application/pdf" width="800" height="1200">
+
 </div>
 
 ### Grades Bachelor
 
 <br/><br/>
 
-<div style="text-align: center;">
-<embed src="grades_bachelor_magnus_bitsch.pdf" type="application/pdf" width="800" height="1188">
+
+<div style="margin-left: 20%; margin-right: auto; width: 100%">
+<embed src="grades_bachelor_magnus_bitsch.pdf" type="application/pdf" width="800" height="1200">
+
 </div>
+
 
 ### Grades Bachelor
 
 <br/><br/>
 
-<div style="text-align: center;">
+<div style="margin-left: -10%; margin-right: auto; width: 100%">
 ![](diplom_dtu_magnus_bitsch.png)
 </div>
 
 
 <!-- 
+<div style="text-align: center;">
+</div>
+
 ### Footer
 
 Last updated: May 2013
