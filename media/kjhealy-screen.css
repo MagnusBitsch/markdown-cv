@@ -66,12 +66,12 @@ p {
 	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 80%;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
