@@ -10,6 +10,8 @@ output:
 
 # Magnus Aleaxander Bitsch
 
+#### Date: November 2022
+
 ## Personal Information
 
 `Born` Copenhagen, Denmark, October 12th 1990  
@@ -36,6 +38,11 @@ leadership abilities and taught me how to be a team player.
 
 <br/><br/>
 
+
+<div style="margin-left: 33%;
+            margin-right: auto;
+            width: 80%">
+
 |                           |                           |                                       |
 |:--------------------------|:--------------------------|:--------------------------------------|
 | - Statistical Modelling   | - Azure                   | - Natural Leader - Team Captain       |
@@ -43,6 +50,8 @@ leadership abilities and taught me how to be a team player.
 | - Machine Learning        | - Reinforcement Learning  | - Self-motivated                      |
 | - Data Mining             | - Problem Solving         | - Keen to learn and improve skills    |
 |                           |                           |                                       |
+
+</div>
 
 
 ## Education
@@ -269,22 +278,31 @@ American football | Sports in general | Challenges
 
 <br/><br/>
 
+<div style="text-align: center;">
 <embed src="grades_master_magnus_bitsch.pdf" type="application/pdf" width="800" height="1188">
+</div>
 
 ### Grades Bachelor
 
 <br/><br/>
 
+<div style="text-align: center;">
 <embed src="grades_bachelor_magnus_bitsch.pdf" type="application/pdf" width="800" height="1188">
+</div>
 
 ### Grades Bachelor
 
 <br/><br/>
 
+<div style="text-align: center;">
 ![](diplom_dtu_magnus_bitsch.png)
+</div>
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+<!-- 
+### Footer
+
+Last updated: May 2013
+-->
 
 
