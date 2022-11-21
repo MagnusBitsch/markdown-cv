@@ -39,19 +39,15 @@ leadership abilities and taught me how to be a team player.
 <br/><br/>
 
 
-<div style="margin-left: 33%;
-            margin-right: auto;
-            width: 80%">
-
-
-| **Algorithms**                    | **DevOps**        | **Stakeholder Management**                    |
-|:----------------------------------|:------------------|:----------------------------------------------|
-| $\bullet$ Machine Learning        | $\bullet$ Azure   | $\bullet$ Natural Leader - Team Captain       |
-| $\bullet$ Deep Learning           | $\bullet$ MLOps   | $\bullet$ Communication to nontechnical       |
-| $\bullet$ Time Series Analysis    | $\bullet$ Git     | $\bullet$ Self-motivated                      |
-| $\bullet$ Statistical Modelling   | $\bullet$ CI/CD   | $\bullet$ Problem Solving                     |
-|                                   |                   |                                               |
-
+<div style="margin-left: 33%; margin-right: auto; width: 80%">
+| **Algorithms**                            | **DevOps**        | **Stakeholder Management**                    |
+|:------------------------------------------|:------------------|:----------------------------------------------|
+| $\bullet$ Machine Learning                | $\bullet$ Azure   | $\bullet$ Natural Leader - Team Captain       |
+| $\bullet$ Interpretable Machine Learning  | $\bullet$ MLOps   | $\bullet$ Communication to nontechnical       |
+| $\bullet$ Deep Learning                   | $\bullet$ Git     | $\bullet$ Self-motivated                      |
+| $\bullet$ Time Series Analysis            | $\bullet$ CI/CD   | $\bullet$ Problem Solving                     |
+| $\bullet$ Statistical Modelling           | $\bullet$ Docker  | $\bullet$ Keen to learn and improve skills    |
+|                                           |                   |                                               |
 </div>
 
 
@@ -189,7 +185,7 @@ become qualified electricians.
 
 ### Advanced
 
-Python | R | Docker | Azure | Azure DevOps Pipelines | MLOps | Bicep | Interpretable Machine Learningen
+Python | R | Docker | Azure | Azure DevOps Pipelines | MLOps | Bicep | Interpretable Machine Learning
 
 ### Intermediate
 
