@@ -4,13 +4,11 @@ author: ""
 output:
   html_document:
     css: media/kjhealy-screen.css
-  pdf_document:
-    css: media/kjhealy-screen.css
 ---
 
 # Magnus Aleaxander Bitsch
 
-#### Date: November 2022
+#### November 2022
 
 ## Personal Information
 
@@ -21,6 +19,8 @@ output:
 `Phone` +45 26 30 48 94  
 
 ## Goal
+
+I am a self-motivated and problem solving individual who is always keen to learn and improve skills.
 
 ### Data Science
 
@@ -43,13 +43,14 @@ leadership abilities and taught me how to be a team player.
             margin-right: auto;
             width: 80%">
 
-|                           |                           |                                       |
-|:--------------------------|:--------------------------|:--------------------------------------|
-| $\bullet$ Statistical Modelling   | $\bullet$ Azure                   | $\bullet$ Natural Leader - Team Captain       |
-| $\bullet$ Time Series Analysis    | $\bullet$ Deep Learning           | $\bullet$ Communication to non-mathematicians |
-| $\bullet$ Machine Learning        | $\bullet$ Reinforcement Learning  | $\bullet$ Self-motivated                      |
-| $\bullet$ Data Mining             | $\bullet$ Problem Solving         | $\bullet$ Keen to learn and improve skills    |
-|                           |                           |                                       |
+
+| **Algorithms**                    | **DevOps**        | **Stakeholder Management**                    |
+|:----------------------------------|:------------------|:----------------------------------------------|
+| $\bullet$ Machine Learning        | $\bullet$ Azure   | $\bullet$ Natural Leader - Team Captain       |
+| $\bullet$ Deep Learning           | $\bullet$ MLOps   | $\bullet$ Communication to nontechnical       |
+| $\bullet$ Time Series Analysis    | $\bullet$ Git     | $\bullet$ Self-motivated                      |
+| $\bullet$ Statistical Modelling   | $\bullet$ CI/CD   | $\bullet$ Problem Solving                     |
+|                                   |                   |                                               |
 
 </div>
 
@@ -82,6 +83,7 @@ GPA: 7.9 - *Bachelor (BEng and BSc)*
 
 *Description*: Sound mathematical foundations and experience in developing
 and running mathematical models in different fields.  
+*Thesis*: Prediction of Real Estate Prices (Grade: 10 (B))  
 *Link*: [Mathematical Modelling and Computation](http://www.dtu.dk/english/Education/msc/Programmes/mathematical_modelling_and_computation)
 
 
@@ -187,15 +189,15 @@ become qualified electricians.
 
 ### Advanced
 
-Python, R, R-Sweave, Docker, Azure, Azure DevOps Pipelines
+Python | R | Docker | Azure | Azure DevOps Pipelines | MLOps | Bicep | Interpretable Machine Learningen
 
 ### Intermediate
 
-SQL, Databricks, Git, Bash, Markdown, MLOps, LATEX
+SQL | Databricks | Git | Bash | Markdown | LaTeX | R-Sweave | Shiny
 
 ### Basic
 
-Matlab, SAS, Java, C
+Matlab | SAS | Java | C
 
 
 ## Articles
@@ -222,7 +224,7 @@ Lange, Peter & Godtfredsen, Nina & Olejnicka, Beata & Paradis, Bo-Anders & Curia
 
 `Fall 2012` Oregon State University
 
-`2007/2008` Waynesfield Goshen High School (Jr/11th grade), Ohio, USA
+`2007/2008` Waynesfield Goshen High School (Jr./11th grade), Ohio, USA
 
 
 ### Languages
@@ -279,7 +281,7 @@ American football | Sports in general | Challenges
 <br/><br/>
 
 <div style="margin-left: 22%; margin-right: auto; width: 100%">
-<embed src="grades_master_magnus_bitsch.pdf" type="application/pdf" width="800" height="1200">
+<embed src="grades_master_magnus_bitsch.pdf" type="application/pdf" width="600" height="910">
 
 </div>
 
@@ -289,7 +291,7 @@ American football | Sports in general | Challenges
 
 
 <div style="margin-left: 22%; margin-right: auto; width: 100%">
-<embed src="grades_bachelor_magnus_bitsch.pdf" type="application/pdf" width="800" height="1200">
+<embed src="grades_bachelor_magnus_bitsch.pdf" type="application/pdf" width="600" height="910">
 
 </div>
 
@@ -298,7 +300,7 @@ American football | Sports in general | Challenges
 
 <br/><br/>
 
-<div style="margin-left: -7%; margin-right: auto; width: 100%">
+<div style="margin-left: -5%; margin-right: auto; width: 82%">
 ![](diplom_dtu_magnus_bitsch.png)
 </div>
 
