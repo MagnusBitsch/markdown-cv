@@ -12,8 +12,8 @@ output:
 
 ## Personal Information
 
-`Born` Copenhagen, Denmark, October 12th 1990  
-`Adress` Fredericiagade 21D, st., 1310 Copenhagen K  
+`Born` [Frederiksberg, Denmark](https://goo.gl/maps/B3fhRAapqzz2Egqt8), October 12th 1990  
+`Adress` [Fredericiagade 21D, st., 1310 Copenhagen K](https://goo.gl/maps/ZBfgbyWcupTHanZY6)  
 `Email` [magnusbitsch@gmail.com](mailto:magnusbitsch@gmail.com)  
 `Website` [LinkedIn](https://dk.linkedin.com/pub/magnus-alexander-bitsch/a3/30/270)  
 `Phone` +45 26 30 48 94  
