@@ -1,9 +1,10 @@
 ---
-title: ""
-author: ""
+title: ''
+author: ''
 output:
   html_document:
-    css: media/kjhealy-screen.css
+    css: "media/kjhealy-screen.css"
+  pdf_document: default
 ---
 
 # Magnus Aleaxander Bitsch
@@ -13,7 +14,7 @@ output:
 ## Personal Information
 
 `Born` [Frederiksberg, Denmark](https://goo.gl/maps/B3fhRAapqzz2Egqt8), October 12th 1990  
-`Adress` [Fredericiagade 21D, st., 1310 Copenhagen K](https://goo.gl/maps/ZBfgbyWcupTHanZY6)  
+`Adress` [Dexter Gordons Vej 35, 2. nr. 8. 2450 København SV](https://goo.gl/maps/5DgLFvTxibiGLgrF7)  
 `Email` [magnusbitsch@gmail.com](mailto:magnusbitsch@gmail.com)  
 `Website` [LinkedIn](https://dk.linkedin.com/pub/magnus-alexander-bitsch/a3/30/270)  
 `Phone` +45 26 30 48 94  
@@ -27,6 +28,9 @@ I am a self-motivated and problem solving individual who is always keen to learn
 A degree in mathematical modelling and computation as an engineer combined
 with work experience in Data Science both internal and as a consultant has provided me with the skill set to model any data you throw at me through a wide variety of mathematical and
 statistical tools which I always seek to improve.  
+
+My specialties are within interpretable machine learning and utilizing analytical processes by transforming business ideas into analytical products.  
+
 
 ### American Football
 
@@ -111,24 +115,28 @@ and running mathematical models in different fields.
 `2022 -` **Kapacity A/S, Copenhagen**
 
 *Area*: Kapacity AI  
-*Description*: Working with predictive modelling, statistics, data mining, machine learning and deep learning primarily using the Azure cloud platform. Framework for comparing and selecting output from
-competing models in production. Primary areas: Churn, cross-sales, CLV.  
+*Description*: Working with MLOps, architecture, predictive modelling, statistics, data mining, machine learning and deep learning primarily using the Azure cloud platform. Framework for comparing and selecting output from
+competing models in production.  
+*Primary areas*: Churn, cross-sales, CLV, interpretable machine learning and MLOps.  
 
 Converting Machine Learning and advanced statistical analysis into concrete data products targeted at various businesses.  
-A Senior Data Science Architect has several years of experience deploying Data Science models in production in customer environments, both on premise and Azure cloud. The have broad and deep experience with Data Science methods, tools and algorithms and know how to deploy each of these models to production. They can facilitate a business discussion and design the data science architecture to match customers’ requirements to data environment.  
-The profile secures that team members and colleagues are up to date on Kapacitys Best Practice for implementing. Data Science methods, based on i.e infrastructure-as-code, CI/CD pipelines, DevOps methods, Docker containers and virtual analysis environments.  
+A Senior Data Science Architect has several years of experience deploying Data Science models in production in customer environments, both on premise and Azure cloud. They have broad and deep experience with Data Science methods, tools and algorithms and know how to deploy each of these models to production. They can facilitate a business discussion and design the data science architecture to match customers’ requirements to data environment.  
+The profile secures that team members and colleagues are up to date on Kapacitys Best Practice for implementing Data Science methods, based on i.e infrastructure-as-code, CI/CD pipelines, DevOps methods, Docker containers and virtual analysis environments.  
 *Link*: [Kapacity](https://kapacity.dk/)  
 
+
+\newpage
 ### Senior Data Scientist
 
 `2019 - 2022` **Kapacity A/S, Copenhagen**
 
 *Area*: Kapacity AI  
 *Description*: Senior data scientist in BI consultancy. Working with predictive modelling, statistics, data mining, machine learning and deep learning primarily using the Azure cloud platform. Framework for comparing and selecting output from
-competing models in production. Primary areas: Churn, cross-sales, CLV.  
+competing models in production.  
+*Primary areas*: Churn, cross-sales, CLV and interpretable machine learning.  
 
 Converting Machine Learning and advanced statistical analysis into concrete data products targeted at various businesses.  
-A Senior Data Science Architect has several years of experience in putting Data Science models into production on the customer's environment, whether on-premise or Azure cloud. They have a broad understanding of Data Science methods, tools and algorithms and know processes with production setting of models within each. They know how to drive the business dialogue and to adapt the setup of the data science architecture to the customer's other wishes for the data environment.  
+A Senior data scientist has several years of experience in putting Data Science models into production on the customer's environment, whether on-premise or Azure cloud. They have a broad understanding of Data Science methods, tools and algorithms and know processes with production setting of models within each. They know how to drive the business dialogue and to adapt the setup of the data science architecture to the customer's other wishes for the data environment.  
 The profile actively works to ensure that employees and colleagues seek knowledge and sparring relationships regarding Kapacity's Best Practice implementation within Data Science methods, which are based on the use of infrastructure-as-code, CI/CD pipelines, DevOps methods, Docker containers and virtual analysis environments.  
 *Link*: [Kapacity](https://kapacity.dk/)  
 
@@ -138,7 +146,8 @@ The profile actively works to ensure that employees and colleagues seek knowledg
 `2019 - 2019` **Nuuday (TDC Group), Copenhagen**
 
 *Area*: Commercial Data Science  
-*Description*: Chapter lead and senior data scientist supervising 8 data scientist and collaborating with stakeholders. Working with predictive modelling, statistics, data mining, machine learning and deep learning. Framework for comparing and selecting output from competing models in production. Primary areas: Churn, cross-sales, CLV, maintaining models in production.  
+*Description*: Chapter lead and senior data scientist supervising 8 data scientist and collaborating with stakeholders. Working with predictive modelling, statistics, data mining, machine learning and deep learning. Framework for comparing and selecting output from competing models in production.  
+*Primary areas*: Churn, cross-sales, CLV, maintaining models in production.  
 *Reference*: Jonas Munk | [jmu@nuuday.dk](mailto:jmu@nuuday.dk)  
 *Link*: [TDC Group](https://tdcgroup.com/)
 
@@ -148,7 +157,8 @@ The profile actively works to ensure that employees and colleagues seek knowledg
 `2016 - 2019` **TDC Group, Copenhagen**
 
 *Area*: AI & Robotics  
-*Description*: Working with predictive modelling, statistics, data mining, machine learning and deep learning. Framework for comparing and selecting output from competing models in production. Primary areas: Churn, cross-sales, CLV, invoice classification, maintaining models in production, supervising junior data scientists and collaborating with stakeholders.  
+*Description*: Working with predictive modelling, statistics, data mining, machine learning and deep learning. Framework for comparing and selecting output from competing models in production.  
+*Primary areas*: Churn, cross-sales, CLV, invoice classification, maintaining models in production, supervising junior data scientists and collaborating with stakeholders.  
 *Reference*: Jonas Munk | [jmu@nuuday.dk](mailto:jmu@nuuday.dk)  
 *Link*: [TDC Group](https://tdcgroup.com/)
 
@@ -189,7 +199,7 @@ Python | R | Docker | Azure | Azure DevOps Pipelines | MLOps | Bicep | Interpret
 
 ### Intermediate
 
-SQL | Databricks | Git | Bash | Markdown | LaTeX | R-Sweave | Shiny
+SQL | (Azure) Databricks | Git | Bash | Markdown | LaTeX | R-Sweave | Shiny
 
 ### Basic
 
@@ -213,7 +223,7 @@ Wolf, S., Møller, J. K., Bitsch, M. A., Krogstie, J., & Madsen, H. (2019). A Ma
 Lange, Peter & Godtfredsen, Nina & Olejnicka, Beata & Paradis, Bo-Anders & Curiac, Dan & Humerfelt, Sjur & Telg, Gunilla & Christensen, Helene & Bitsch, Magnus & Andersen, Elisabeth & Bjermer, Leif. (2016). Symptoms and quality of life in patients with chronic obstructive pulmonary disease treated with aclidinium in a real-life setting. European Clinical Respiratory Journal. 3. 10.3402/ecrj.v3.31232.
 
 
-
+\newpage
 ## Other Information
 
 ### Exchange Student
@@ -308,6 +318,23 @@ American football | Sports in general | Challenges
 ### Footer
 
 Last updated: May 2013
+-->
+
+
+<!-- 
+**Skills and focus**
+Advanced analytics methodologies
+Problem Solving
+Statistical Modelling
+Supervised learning
+Unsupervised learning
+Time Series Analysis
+Hidden markov models
+Mixed Linear Models
+Reinforcement Learning
+Deep learning
+Data visualization
+Combing customer lifetime value and models across products
 -->
 
 
